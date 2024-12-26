@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4dc66a1cf23eb0488778dd82e2450e5, type: 3}
+  m_Name: Pig
+  m_EditorClassIdentifier: 
+  isBuyed: 0
+  isSelected: 0
+  name: PIG
+  ability: FRESH MEAT
+  rarity: EPIC
+  rarityIndex: 1
+  description: Extremely hralthy and a little slow, loves nuts
+  level: 1
+  upgradePrice: 0000000090010000580200002003000078000000dc05000040060000a4060000480d0000c800000000000000
+  modifierIndex: 0200000002000000020000000300000002000000010000000100000003000000010000000100000001000000
+  price: 100
+  attackSpeed: 1.4
+  attackRange: 10
+  damage: 15
+  health: 50
+  defend: 2
+  speed: 3.1

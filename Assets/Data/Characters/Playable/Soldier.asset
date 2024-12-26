@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4dc66a1cf23eb0488778dd82e2450e5, type: 3}
+  m_Name: Soldier
+  m_EditorClassIdentifier: 
+  isBuyed: 0
+  isSelected: 0
+  name: SOLDIER
+  ability: BALANCE
+  rarity: LEGN
+  rarityIndex: 2
+  description: A master of tactics and a fan of throwing nuts
+  level: 1
+  upgradePrice: 00000000f4010000e8030000dc050000c8000000b80b0000ac0d0000a00f0000401f0000f401000000000000
+  modifierIndex: 0300000003000000030000000600000002000000020000000200000006000000030000000300000003000000
+  price: 20000
+  attackSpeed: 0.3
+  attackRange: 10
+  damage: 7
+  health: 20
+  defend: 5
+  speed: 3.6
